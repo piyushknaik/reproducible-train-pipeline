@@ -43,6 +43,7 @@ env/
 .settings/
 *.sublime-project
 *.sublime-workspace
+mlflow.db
 
 # Jupyter Notebook
 .ipynb_checkpoints
