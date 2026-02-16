@@ -1,0 +1,20 @@
+[
+  {
+    "input": "France",
+    "response": "The capital of France is Paris. \n\nThe government type of France is a Semi-Presidential Republic.",
+    "tokens": 21,
+    "time": 0.1424107551574707
+  },
+  {
+    "input": "Japan",
+    "response": "The capital of Japan is Tokyo. \n\nThe government type of Japan is a Unitary Parliamentary Constitutional Monarchy. \n\nHere's a breakdown of what this means:\n\n- Unitary: Japan has a single, unified government that exercises control over the entire country.\n- Parliamentary: The government is headed by a Prime Minister, who is the head of government, and is accountable to the legislature (the National Diet).\n- Constitutional Monarchy: Japan has a monarch (the Emperor) who serves as the head of state, but their powers are limited by a constitution and they do not have direct involvement in the day-to-day governance of the country.",
+    "tokens": 108,
+    "time": 0.25299501419067383
+  },
+  {
+    "input": "Brazil",
+    "response": "The capital of Brazil is Bras\u00edlia, and the government type is a Federal Republic.",
+    "tokens": 20,
+    "time": 0.09384894371032715
+  }
+]
